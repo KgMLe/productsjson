@@ -1,0 +1,75 @@
+{"products": [
+  {
+    "id": 1,
+    "src": "https://i.postimg.cc/TPPZ9QrF/1593019286911-removebg-preview.png",
+    "brand": "VisionStyle",
+    "description":"Modern rectangular design with lightweight materials and adjustable nose pads for a comfortable fit.",
+    "price": 700
+},
+{
+    "id": 2,
+    "src": "https://i.postimg.cc/QMMsYcL9/13361228-15441729-300-removebg-preview.png", 
+    "brand": "FrameXpress",
+    "description": "Aviator-inspired frames" ,
+    "price": 200
+},
+{
+    "id": 3,
+    "src": "https://i.postimg.cc/fRT6MZ81/16360935557651-removebg-preview.png",  
+    "brand": "Fashion Eyes",
+    "description":"Oversized square frames crafted from premium acetate.",
+    "price": 300
+},
+{   "id": 4,
+    "src": "https://i.postimg.cc/26wQjpcX/16833593271408-removebg-preview.png", 
+    "brand": "Police",
+    "description": "Geometric hexagonal frames",
+    "price": 680
+},
+{
+    "id": 5,
+    "src": "https://i.postimg.cc/rsMfgCb7/412-Oh-QStr-L-SX425-removebg-preview.png", 
+    "brand": "Polar",
+    "description":" Retro-inspired round frames with a keyhole bridge and tortoiseshell acetate",
+    "price": 200
+},
+{
+    "id": 6,
+    "src": "https://i.postimg.cc/c4c8KK39/image-removebg-preview.png", 
+    "brand": "Polar",
+    "description":"Sleek and minimalist circular frames made from lightweight materials",
+    "price": 899
+},
+
+{
+  "id": 7,
+  "src": "https://i.postimg.cc/HLwtPvM3/image-1-removebg-preview.png", 
+  "brand": "Vision",
+  "description": "Classic round shape with durable acetate frames and spring hinges for added flexibility",
+  "price": 600
+},
+
+{
+ "id": 8,
+ "src": "https://i.postimg.cc/GtW8RdwD/image-2-removebg-preview.png", 
+ "brand": "Elite",
+ "description": "Retro-inspired round frames with a keyhole bridge and tortoiseshell acetate",
+ "price": 800
+},
+
+{
+ "id": 9,
+ "src": "https://i.postimg.cc/5N3dPKV7/666c2cce6f72699135ffcf-removebg-preview.png", 
+ "brand": "Specs",
+ "description": "A look into our new limited edition collection",
+ "price": 7750
+},
+
+{
+ "id": 10,
+ "src": "https://i.postimg.cc/Tw50SQX1/16360764398588-1-removebg-preview.png", 
+ "brand": "Opti Chic",
+ "description": "Bold cat-eye silhouette with high-quality metal frames",
+ "price": 1800
+}
+]}
